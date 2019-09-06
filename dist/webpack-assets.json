@@ -9,9 +9,10 @@
     "js": "polyfills.bundle.js"
   },
   "": {
-    "": [
-      "assets/.keep",
-      ".keep"
+    "json": [
+      "locale/locale-zh-HK.json",
+      "locale/locale-en-US.json",
+      "locale/locale-zh-CN.json"
     ],
     "js": [
       "0.chunk.js",
@@ -19,10 +20,9 @@
       "vendor.dll.js",
       "polyfills.dll.js"
     ],
-    "json": [
-      "locale/locale-zh-HK.json",
-      "locale/locale-zh-CN.json",
-      "locale/locale-en-US.json"
+    "": [
+      ".keep",
+      "assets/.keep"
     ],
     "html": "index.html"
   }
